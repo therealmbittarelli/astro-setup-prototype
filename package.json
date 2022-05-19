@@ -1,0 +1,28 @@
+{
+  "name": "astro-setup-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build-site": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealmbittarelli/astro-setup-prototype.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealmbittarelli/astro-setup-prototype/issues"
+  },
+  "homepage": "https://github.com/therealmbittarelli/astro-setup-prototype#readme",
+  "devDependencies": {
+    "@astrojs/preact": "^0.1.2",
+    "@astrojs/sitemap": "^0.1.0",
+    "astro": "^1.0.0-beta.30",
+    "preact": "^10.7.2"
+  }
+}
